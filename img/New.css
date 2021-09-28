@@ -1,0 +1,23 @@
+.pic{
+    height: 40px;
+}
+.nav-link{
+color:white;
+}
+.hero{
+    height:100vh;
+    background-image:url(/img/19572.jpg);
+    background-position:center;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+.nab{
+    margin-bottom: 40px;
+}
+.but{
+    border: 2px solid red;
+}
+.hove{
+    background-color hovor
+}
